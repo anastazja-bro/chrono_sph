@@ -17,3 +17,6 @@
 	path = src/chrono_thirdparty/DEM-Engine
 	url = https://github.com/projectchrono/DEM-Engine
 	branch = main
+[submodule "SPHinXsys"]
+	path = SPHinXsys
+	url = https://github.com/Xiangyu-Hu/SPHinXsys.git

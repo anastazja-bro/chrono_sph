@@ -247,6 +247,7 @@ install(DIRECTORY ${CMAKE_SOURCE_DIR}/template_project_vehicle_cosim/ DESTINATIO
 #------------------------------------------------------------
 
 add_subdirectory(src)
+add_subdirectory(SPHinXsys)
 
 #------------------------------------------------------------
 # Use CPack
